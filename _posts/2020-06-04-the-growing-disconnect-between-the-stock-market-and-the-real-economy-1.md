@@ -10,7 +10,7 @@ intro_paragraph: As the world continues to struggle with the Covid-19 pandemic,
   destruction have brought many countries to the brink of collapse. Yet,
   financial markets worldwide seem to exist in a parallel universe, having
   recovered from the massive losses in March to enter a fresh bull market.
-categories: ""
+categories: Covid-19, Stock-market
 ---
 There are no shortage of expert opinions on why this disconnect is occurring.
 Some reasons being put forward by market observers for this curious phenomenon include:
