@@ -32,4 +32,4 @@ Some reasons being put forward by market observers for this curious phenomenon i
 
 It is now increasingly clear that the stock market has taken a life of its own and has diverged from current economic realities. The reasons for optimism are justifiable in that the unprecedented Central Bank monetary policies and Government fiscal stimulus packages have so far proven to be effective in mitigating the short-term economic damage from the Covid-19 pandemic.
 
-Markets are also optimistic that a viable drug treatment or an effective vaccine will eventually be developed for this disease, allowing the resumption of work, business and commercial activities which will lead to the much-needed restoration of Global economic growth.
+Markets are also optimistic that the scientific and medical community will eventually develop a viable drug treatment or an effective vaccine for this disease, allowing the resumption of work, business and commercial activities which will lead to the much-needed restoration of Global economic growth.
